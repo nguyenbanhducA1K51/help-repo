@@ -1,0 +1,7 @@
+*.gz
+*.off
+*ubyte
+*.pt
+test.pt 
+training.pt
+pointnet.pytorch
